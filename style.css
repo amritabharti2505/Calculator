@@ -1,0 +1,24 @@
+html,body{
+    height: 100%;
+    width: 100%;
+}
+.input{
+    width:150%;
+    padding: 10px;
+    margin-left: -48px;
+    border:2px solid black;
+    border-radius: 9px;
+    cursor:pointer;
+    font-size: 90%;
+    
+}.button{
+    padding:20px;
+    background-color: whitesmoke;
+    margin:5px 3px;
+    border:2px solid black;
+    border-radius: 9px;
+    cursor:pointer;
+}
+.row{
+    margin: 8px 0;
+}
